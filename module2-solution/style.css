@@ -3,7 +3,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 0 ;
+  padding:0;
 }
 
 body {
@@ -13,6 +13,7 @@ body {
 h1 {
   font-size: 175%;
   text-align: center;
+  margin-top: 15px;
   margin-bottom: 15px;
 }
 
@@ -58,7 +59,7 @@ section p {
   color: black;
 }
 
-/* Simple Responsive Framework. */
+/* Responsive Framework. */
 .row {
   width: 100%;
 }
