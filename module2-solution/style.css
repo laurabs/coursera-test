@@ -3,7 +3,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding:0;
+  padding: 0;
 }
 
 body {
@@ -24,7 +24,6 @@ section {
   overflow: hidden;
   width: 90%;
   height: 140px;
-  /*margin: 10px;*/
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 15px;
